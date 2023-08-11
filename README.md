@@ -1,4 +1,4 @@
-## My resume -> anawesomewave.github.io
+## [My resume](https://anawesomewave.github.io/)
 - 👋 Hi, I’m @anAwesomeWave
 - 👀 I’m interested in Computer Science 
 - 🌱 I’m currently learning Python & Web Developing
