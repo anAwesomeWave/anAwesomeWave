@@ -1,7 +1,7 @@
 ## [My resume](https://anawesomewave.github.io/)
 - 👋 Hi, I’m @anAwesomeWave
 - 👀 I’m interested in Computer Science 
-- 🌱 I’m currently learning Python & Web Developing
+- 🌱 I’m currently learning Java & Web Developing
 - 📫 How to reach me - timofey.zubov.05@gmail.com
 <!-- - 💞️ I’m looking to collaborate on ... -->
 
